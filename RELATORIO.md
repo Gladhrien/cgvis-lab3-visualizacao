@@ -47,10 +47,8 @@
 
 ### Legenda (*caption*)
 
-> [!IMPORTANT]
->
-> - No gráfico da esquerda, divisão dos gastos com saúde do Brasil divididos por fonte. Em azul, temos os gastos governamentais (SUS), em laranja os gastos voluntários (como planos de saúde) e em vermelho o quanto a população precisa pagar out-of-pocket (do seu bolso) no momento do atendimento.
-> - No gráfico da direita, quanto a população brasileira precisa pagar out-of-pocket comparado com outros países. A barra de cima demonstra o valor em dólares e a de baixo a porcentagem dos gastos que são direto do bolso.
+No gráfico da esquerda, divisão dos gastos com saúde do Brasil divididos por fonte. Em azul, temos os gastos governamentais (SUS), em laranja os gastos voluntários (como planos de saúde) e em vermelho o quanto a população precisa pagar out-of-pocket (do seu bolso) no momento do atendimento.
+No gráfico da direita, quanto a população brasileira precisa pagar out-of-pocket comparado com outros países. A barra de cima demonstra o valor em dólares e a de baixo a porcentagem dos gastos que são direto do bolso.
 
 ### Conclusão demonstrada pela visualização
 
