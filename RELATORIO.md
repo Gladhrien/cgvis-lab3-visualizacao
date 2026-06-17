@@ -6,8 +6,8 @@
 
 ## Identificação
 
-- **Nome**: <mark>`<preencher>`</mark>
-- **Cartão UFRGS:** <mark>`<preencher>`</mark>
+- **Nome**: <mark>`Eduarda Waechter`</mark>
+- **Cartão UFRGS:** <mark>`00304585`</mark>
 
 ## Dados utilizados
 
@@ -17,11 +17,12 @@
 > - Se houver mais de um conjunto de dados, liste todos separadamente.
 > - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
 
-1. **Dataset 1**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
-2. **Dataset 2**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
-3. ...
+1. **Dataset 1**: <mark>`[Dataset 'Global Health Spending'](https://github.com/rfordatascience/tidytuesday/tree/main/data/2026/2026-04-21)`</mark>
+    * **Descrição curta**: <mark>`Dados comparativos que mostram quanto cada país gasta em saúde, de onde vem esse dinheiro e onde está sendo gasto.`</mark>
+2. **Dataset 2**: <mark>`[Dataset de regiões de cada país](https://api.worldbank.org/v2/country)`</mark>
+    * **Descrição curta**: <mark>`Para algumas das análises que fiz, foi necessário separar por região, então utilizei este dataset.`</mark>
+3. **Dataset 1**: <mark>`[Dataset de população por país](https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL)`</mark>
+    * **Descrição curta**: <mark>`Dados sobre a população de cada país.`</mark>
 
 ## Código-fonte da visualização
 
